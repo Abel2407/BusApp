@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="selec">#D48A48</color>
+    <color name="marronclaro">#755F4A</color>
 </resources>
